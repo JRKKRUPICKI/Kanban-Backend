@@ -1,0 +1,10 @@
+**/__pycache__/
+api/migrations/
+venv/
+.idea/
+
+.pytest_cache/
+htmlcov/
+
+db.sqlite3
+.coverage
